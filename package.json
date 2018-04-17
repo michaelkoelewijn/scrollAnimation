@@ -1,6 +1,6 @@
 {
   "name": "@michaelkoelewijn/scrollanimate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelkoelewijn/scrollAnim.git"
+    "url": "git+https://github.com/michaelkoelewijn/scrollAnimation.git"
   },
   "author": "Michael Koelewijn <imichael91@live.nl> (https://github.com/michaelkoelewijn)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michaelkoelewijn/scrollAnim/issues"
+    "url": "https://github.com/michaelkoelewijn/scrollAnimation/issues"
   },
-  "homepage": "https://github.com/michaelkoelewijn/scrollAnim#readme",
+  "homepage": "https://github.com/michaelkoelewijn/scrollAnimation#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
