@@ -11,12 +11,12 @@ The incremented value will be reset back to 0ms after element(s) have entered.
 
 
 ## Install
-``` npm install @michaelkoelewijn/scrollanimate```  
-``` yarn add @michaelkoelewijn/scrollanimate```
+``` npm install @mkoelewijn/scrollanimate```  
+``` yarn add @mkoelewijn/scrollanimate```
 
 ## How to use
 ```
-var Anim = require('@michaelkoelewijn/scrollanimate');
+var Anim = require('@mkoelewijn/scrollanimate');
 $(() => {
     Anim.init({
         element: '.slides',
